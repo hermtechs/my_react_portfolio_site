@@ -24,8 +24,17 @@ function App() {
             Let’s collaborate to bring your ideas to life.
           </p>
           <div className="hero-buttons">
-            <button className="cta-button">Get in Touch</button>
-            <button className="cta-secondary">View GitHub</button>
+            <a
+              href="https://wa.me/12345678900?text=Hello%20there%2C%20I%20am%20here%20from%20your%20portfolio%20site"
+              className="cta-button"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Get in Touch
+            </a>
+            <a href="https://github.com/hermtechs" className="cta-secondary">
+              View GitHub
+            </a>
           </div>
         </div>
       </header>

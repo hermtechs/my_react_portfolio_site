@@ -81,6 +81,7 @@ body {
   font-size: 1rem;
   cursor: pointer;
   border-radius: 6px;
+  text-decoration: none;
 }
 .cta-button:hover {
   background-color: #2ea043;
@@ -93,6 +94,7 @@ body {
   font-size: 1rem;
   cursor: pointer;
   border-radius: 6px;
+  text-decoration: none;
 }
 .cta-secondary:hover {
   background-color: #c9d1d9;
