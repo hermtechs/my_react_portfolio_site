@@ -25,7 +25,7 @@ function App() {
           </p>
           <div className="hero-buttons">
             <a
-              href="https://wa.me/12345678900?text=Hello%20there%2C%20I%20am%20here%20from%20your%20portfolio%20site"
+              href="https://wa.me/97470923424?text=Hello%20there%2C%20I%20am%20here%20from%20your%20portfolio%20site"
               className="cta-button"
               target="_blank"
               rel="noopener noreferrer"
